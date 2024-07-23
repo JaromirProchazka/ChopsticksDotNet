@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChopsticksForAndroid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+77aa51261abaf4abf245cbdd62ef0ce786d67c60")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChopsticksForAndroid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChopsticksForAndroid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

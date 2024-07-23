@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChopsticksDotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77aa51261abaf4abf245cbdd62ef0ce786d67c60")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChopsticksDotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChopsticksDotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

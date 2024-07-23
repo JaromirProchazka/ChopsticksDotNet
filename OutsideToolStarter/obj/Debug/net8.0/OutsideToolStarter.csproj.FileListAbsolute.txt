@@ -1,0 +1,15 @@
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\bin\Debug\net8.0\OutsideToolStarter.exe
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\bin\Debug\net8.0\OutsideToolStarter.deps.json
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\bin\Debug\net8.0\OutsideToolStarter.runtimeconfig.json
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\bin\Debug\net8.0\OutsideToolStarter.dll
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\bin\Debug\net8.0\OutsideToolStarter.pdb
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\OutsideToolStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\OutsideToolStarter.AssemblyInfoInputs.cache
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\OutsideToolStarter.AssemblyInfo.cs
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\OutsideToolStarter.csproj.CoreCompileInputs.cache
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\OutsideToolStarter.sourcelink.json
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\OutsideToolStarter.dll
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\refint\OutsideToolStarter.dll
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\OutsideToolStarter.pdb
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\OutsideToolStarter.genruntimeconfig.cache
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\ref\OutsideToolStarter.dll

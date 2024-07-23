@@ -34,6 +34,9 @@
     <AppxPackagedFile Include="C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksForAndroid\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChopsticksForAndroid.dll">
       <PackagePath>ChopsticksForAndroid.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\obj\Debug\net8.0\apphost.exe">
+      <PackagePath>OutsideToolStarter.exe</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\obj\Debug\net8.0\apphost.exe">
       <PackagePath>ChopsticksDotNet.exe</PackagePath>
     </AppxPackagedFile>
@@ -45,6 +48,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\bin\Debug\net8.0\ChopsticksDotNet.runtimeconfig.json">
       <PackagePath>ChopsticksDotNet.runtimeconfig.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\bin\Debug\net8.0\OutsideToolStarter.deps.json">
+      <PackagePath>OutsideToolStarter.deps.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\bin\Debug\net8.0\OutsideToolStarter.runtimeconfig.json">
+      <PackagePath>OutsideToolStarter.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksForAndroid\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -444,6 +453,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\bin\Debug\net8.0\ChopsticksDotNet.dll">
       <PackagePath>ChopsticksDotNet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\OutsideToolStarter\bin\Debug\net8.0\OutsideToolStarter.dll">
+      <PackagePath>OutsideToolStarter.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jarom\.nuget\packages\microsoft.maui.controls.compatibility\8.0.6\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

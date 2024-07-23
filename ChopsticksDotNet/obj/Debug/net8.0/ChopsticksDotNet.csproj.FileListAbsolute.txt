@@ -16,3 +16,9 @@ C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\obj\Deb
 C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\obj\Debug\net8.0\ChopsticksDotNet.pdb
 C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\obj\Debug\net8.0\ChopsticksDotNet.genruntimeconfig.cache
 C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\obj\Debug\net8.0\ref\ChopsticksDotNet.dll
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\bin\Debug\net8.0\OutsideToolStarter.deps.json
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\bin\Debug\net8.0\OutsideToolStarter.runtimeconfig.json
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\bin\Debug\net8.0\OutsideToolStarter.exe
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\bin\Debug\net8.0\OutsideToolStarter.dll
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\bin\Debug\net8.0\OutsideToolStarter.pdb
+C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksDotNet\obj\Debug\net8.0\ChopsticksDotNet.sourcelink.json

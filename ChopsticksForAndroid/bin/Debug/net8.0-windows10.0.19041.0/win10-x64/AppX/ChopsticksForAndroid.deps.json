@@ -456,11 +456,17 @@
       },
       "ChopsticksDotNet/1.0.0": {
         "dependencies": {
+          "OutsideToolStarter": "1.0.0",
           "System.CodeDom": "9.0.0-preview.6.24327.7",
           "YamlDotNet": "16.0.0"
         },
         "runtime": {
           "ChopsticksDotNet.dll": {}
+        }
+      },
+      "OutsideToolStarter/1.0.0": {
+        "runtime": {
+          "OutsideToolStarter.dll": {}
         }
       }
     }
@@ -645,6 +651,11 @@
       "hashPath": "yamldotnet.16.0.0.nupkg.sha512"
     },
     "ChopsticksDotNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OutsideToolStarter/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

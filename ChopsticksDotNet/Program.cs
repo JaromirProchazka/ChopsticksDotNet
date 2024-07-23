@@ -10,6 +10,8 @@ namespace ChopsticksDotNet
             var conf = new DefaultConfigBuilder("moonbeam").GetManager();
             var process = new ChopsticksApi(conf);
             process.Run();
+
+            Thread.Sleep(100_000);
         }
     }
 }
