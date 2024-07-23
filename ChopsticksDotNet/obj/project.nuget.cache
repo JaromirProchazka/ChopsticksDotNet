@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qg7HB+/OX8e18pGt12F4jwz14IDHFDoWJnANmm3WNlgf7VI7ubhovEwTaVa3l5YV3qTHGep2TKJh7EC+bASzZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jarom\\Desktop\\PG_CVIČENÍ\\C#\\ChopsticksDotNet\\ChopsticksDotNet\\ChopsticksDotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarom\\.nuget\\packages\\system.codedom\\9.0.0-preview.6.24327.7\\system.codedom.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "C:\\Users\\jarom\\.nuget\\packages\\yamldotnet\\16.0.0\\yamldotnet.16.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
