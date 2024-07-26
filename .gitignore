@@ -12,3 +12,9 @@
 
 # Ignore .vs directory
 .vs/
+
+**/bin/Release/**
+**/bin/Debug/**
+**/obj/Release/**
+**/obj/Debug/**
+node_modules/

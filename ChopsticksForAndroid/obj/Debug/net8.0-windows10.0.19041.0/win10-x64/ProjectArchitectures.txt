@@ -1,1 +1,0 @@
-C:\Users\jarom\Desktop\PG_CVIČENÍ\C#\ChopsticksDotNet\ChopsticksForAndroid\ChopsticksForAndroid.csproj;x64

@@ -15,14 +15,16 @@ namespace ChopsticksDotNet
     /// <param name="Config">Provides a config to chopsticks. Use @IChopsticksConfigBuilder to initialize.</param>
     public record class ChopsticksApi(IChopsticksConfigManager Config) : ConsoleToolRunner
     {
-        public string ChopsticksVersion = "latest"; // on WSL works "0.12.4", otherwise use "latest"
+        public string ChopsticksVersion = "latest"; // on WSL works "0.12.0", otherwise use "latest"
 
         /// <summary>
         /// Delegate for a thread, that starts Chopsticks.
         /// </summary>
         public override void ProcessStarter()
         {
-            Process.StandardInput.WriteLine($"npx @acala-network/chopsticks@{ChopsticksVersion} " + Config.Arguments);
+            string command = "wsl " + $"npx @acala-network/chopsticks@{ChopsticksVersion} " + Config.Arguments;
+            Console.WriteLine(command);
+            Process.StandardInput.WriteLine(command);
 
             //string result = process.StandardOutput.ReadToEnd();
             //Console.WriteLine("Result: " + result);

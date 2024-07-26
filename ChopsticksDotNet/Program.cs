@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace ChopsticksDotNet
 {
@@ -7,11 +8,11 @@ namespace ChopsticksDotNet
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var conf = new DefaultConfigBuilder("moonbeam").GetManager();
+            var conf = new DefaultConfigBuilder("acala").GetManager();
             var process = new ChopsticksApi(conf);
             process.Run();
 
-            Thread.Sleep(100_000);
+            Thread.Sleep(1000_000);
         }
     }
 }

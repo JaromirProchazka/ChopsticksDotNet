@@ -20,7 +20,7 @@ namespace ChopsticksDotNet
     /// <param name="Chain"></param>
     public record class DefaultConfig(string Chain) : IChopsticksConfigManager
     {
-        public string Arguments { get => $"--config=https://raw.githubusercontent.com/AcalaNetwork/chopsticks/master/configs/{Chain}.yml"; }
+        public string Arguments { get => $"-c {Chain}"; }
     }
 
     /// <summary>

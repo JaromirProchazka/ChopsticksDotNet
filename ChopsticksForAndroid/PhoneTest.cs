@@ -7,7 +7,7 @@ namespace ChopsticksForAndroid
     {
         public static MauiApp CreateMauiApp()
         {
-            ChopsticksApi api = new ChopsticksApi(new DefaultConfigBuilder("moonbeam").GetManager());
+            ChopsticksApi api = new ChopsticksApi(new DefaultConfigBuilder("acala").GetManager());
 
             var builder = MauiApp.CreateBuilder();
             builder
